@@ -13,6 +13,6 @@ This tool uses Retrieval-Augmented Generation (RAG) to answer questions based on
 
 1. Clone and install:
 ```bash
-git clone <repo>
+git clone <https://github.com/schivagh/MACH24_ResearchAssistant_RAG_Model>
 cd research-assistant
 python startapp.py
